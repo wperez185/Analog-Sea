@@ -1,0 +1,74 @@
+body {
+  background-color: #417bf3;
+}
+h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+img {
+  height: 35px;
+}
+label {
+  display: block;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+p {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+p a {
+  color: #fff;
+}
+.logo {
+  margin-top: 40px;
+  text-align: center;
+}
+.signup {
+  border-radius: 1%;
+  height: 400px;
+  background-color: white;
+  width: 320px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  background-color: #27ae60;
+  height: 38px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+button:hover {
+  background-color: #005424;
+}
+button.signupbtn, input {
+  width: 303px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+input#email {
+  margin-bottom: 15px;
+  height: 38px;
+  font-size: 18px;
+  border: 2px solid #afaaaa;
+}
+input#password {
+  border: 2px solid #afaaaa;
+  margin-bottom: 15px;
+  height: 38px;
+  font-size: 18px;
+}
+.reset {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 17px;
+}
+.reset a {
+  color: #afaaaa;
+}
