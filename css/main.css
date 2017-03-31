@@ -49,14 +49,13 @@ button:hover {
 }
 button.signupbtn, input {
   width: 303px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 input#email {
-  margin-bottom: 15px;
+  margin: 15px auto;
   height: 38px;
   font-size: 18px;
   border: 2px solid #afaaaa;
+  width: 96%;
 }
 input#password {
   border: 2px solid #afaaaa;
